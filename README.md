@@ -2,9 +2,9 @@
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning to work in mcdonalds
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me (to be added)
+- 📫 How to reach me, email me
 - 😄 Pronouns: un/ko
-- ⚡ Fun fact: VERY INTERESTING...
+- ⚡ Fun fact: i eat poo
 
 <!---
 iambocchi/iambocchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
