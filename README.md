@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @iambocchi
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning to work in mcdonalds
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me, email me
-- 😄 Pronouns: un/ko
-- ⚡ Fun fact: i eat poo
+### Hello
 
-<!---
-iambocchi/iambocchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/iambocchi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iambocchi&hide=prs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/iambocchi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambocchi&layout=donut&langs_count=8&card_width=320prs&show_icons=true&theme=radical" />
+</a>
