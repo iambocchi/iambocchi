@@ -1,4 +1,4 @@
-### Hello (^)o(^)b
+### (^)o(^)b
 
 <a href="https://github.com/iambocchi">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iambocchi&show_icons=true&theme=radical" />
